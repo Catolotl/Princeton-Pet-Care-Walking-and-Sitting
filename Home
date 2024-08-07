@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton PetCare: Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #F4CFDF; /* Light gray background */
+        }
+        header {
+            background-color: #a7c7e7; /* Updated blue color */
+            color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+            margin: 0 5px;
+            border-radius: 5px;
+            background-color: #F7F6CF; /* Light gray */
+        }
+        nav a:hover {
+            background-color: #FFFAA0; /* Light gray (hover) */
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 0 20px;
+            background-color: #F7F6CF; /* White background */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+            padding-bottom: 20px;
+        }
+        footer {
+            background-color: #a7c7e7; /* Updated blue color */
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+    </nav>
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p>Want to collaborate, share feedback, or just say hello? Feel free to reach out to me at axolotlbrickstudios@gmail.com (I may not respond for awhile bc I don't use this account often >❍<) or connect with me on social media.<p>
+
+
+    </div>
+    <footer>
+        <p>&copy; 2024 Axolotls + Cats forever. All rights reserved.</p>
+    </footer>
+</body>
+</html>
